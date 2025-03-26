@@ -10,6 +10,17 @@
 
 *This project implements an Elastic Optical Network (EON) simulation system that can test different combinations of routing strategies and spectrum assignment algorithms to evaluate their performance.*
 
+## 系统截图 / System Screenshots
+
+### 网络拓扑 / Network Topology
+![德国7节点网络拓扑](images/germany_topology.png)
+
+### 仿真结果 / Simulation Results
+![仿真结果示例](images/simulation_results.png)
+
+### 频谱分配可视化 / Spectrum Assignment Visualization
+![频谱分配可视化](images/spectrum_visualization.png)
+
 ## 功能特点 / Features
 
 - 支持不同的路由算法 / Supports different routing algorithms:
@@ -65,12 +76,6 @@ python Task5_shared.py  # 共享保护仿真 / Shared protection simulation
 - 网络碎片化熵 / Network fragmentation entropy
 - 频谱利用率 / Spectrum utilization
 - 每条链路的最高FSU索引 / Highest FSU index for each link
-
-## 团队 / Team
-
-本项目由EEN115课程Group6团队成员开发。
-
-*This project was developed by members of Group6 in the EEN115 course.*
 
 ## 许可 / License
 
